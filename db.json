@@ -89,6 +89,16 @@
       "date": "July 4",
       "time": "9:00",
       "organizer": "Adam Jahr"
+    },
+    {
+      "id": "948d6f48-39ee-48d0-9aca-f5b52f1f8f84",
+      "category": "animal welfare",
+      "title": "Test Animal Welfare",
+      "description": "This is testing my ability to navigate VueX Fundamentals",
+      "location": "Popsicle, NY",
+      "date": "05/10/2006",
+      "time": "",
+      "organizer": "Adam Jahr"
     }
   ]
 }
